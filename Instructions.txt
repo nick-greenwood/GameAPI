@@ -1,0 +1,10 @@
+1. Find Game by name
+2. Find all games that match partial name
+3. Order games by average rating
+4. Order games by most sales
+5. Order games by most money made from sales
+6. Return list of games:
+			Name
+			AVG Rating
+			Money Made
+			Total Sales
